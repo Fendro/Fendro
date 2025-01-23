@@ -37,6 +37,14 @@
         width="40"
       />
     </a>
+    <a href="https://www.java.com" rel="noreferrer" target="_blank">
+      <img
+        alt="java"
+        height="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+        width="40"
+      />
+    </a>
     <a href="https://www.python.org" rel="noreferrer" target="_blank">
       <img
         alt="python"
@@ -50,14 +58,6 @@
         alt="ruby"
         height="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-        width="40"
-      />
-    </a>
-    <a href="https://www.java.com" rel="noreferrer" target="_blank">
-      <img
-        alt="java"
-        height="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
         width="40"
       />
     </a>
@@ -335,7 +335,7 @@
     </a>
   </div>
 
-<h5>DevOps/CI-CD Tools</h5>
+<h5>Testing Tools</h5>
   <div class="row">
     <a href="https://www.cypress.io" rel="noreferrer" target="_blank">
       <img
